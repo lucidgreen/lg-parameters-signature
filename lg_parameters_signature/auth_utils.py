@@ -2,7 +2,8 @@ import base64
 import logging
 
 import cryptography.hazmat.backends
-import cryptography.hazmat.primitives
+import cryptography.hazmat.primitives.hmac
+import cryptography.hazmat.primitives.hashes
 
 
 import urllib.parse
