@@ -1,0 +1,1 @@
+Provides unified methodology to evaluate and validate auth key from a set of parameters
